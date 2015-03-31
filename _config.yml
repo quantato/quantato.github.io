@@ -1,2 +1,3 @@
-	name: Patrick Chan
-	markdown: kramdown
+name: Patrick Chan
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
